@@ -7,7 +7,7 @@ Link: https://jmeter.apache.org/download_jmeter.cgi
 ![image](https://github.com/rafidjaouad/Load-Testing-Using-Jmeter/assets/132584373/af828978-13de-4c96-989f-d06f97d4336b)
 
 **Open Jmeter tool:**
-After extract the file go to -> apache-jmeter-5.6.2\bin  and click on jmeter.bat
+After extracting the file go to -> apache-jmeter-5.6.2\bin  and click on jmeter.bat
 
 **Preview of the software**
 ![image](https://github.com/rafidjaouad/Load-Testing-Using-Jmeter/assets/132584373/f641e13f-7f24-4c0b-81d7-d3c4f0309021)
@@ -41,3 +41,12 @@ Calling a Get API
 4: Set those values as per as you are website you are testing save it and run.
 ![image](https://github.com/rafidjaouad/Load-Testing-Using-Jmeter/assets/132584373/3429828a-b177-4f4a-a26d-06c529fc5111)
 
+5: To visualize the outputs add a view result tree & summary report
+
+6: Then See the results on the view result tree
+![image](https://github.com/rafidjaouad/Load-Testing-Using-Jmeter/assets/132584373/f041812b-72f3-4451-a403-3c4f2a9c79a6)
+
+7: Summary Report
+![image](https://github.com/rafidjaouad/Load-Testing-Using-Jmeter/assets/132584373/3dcf5ae4-b7f9-441d-a0c3-f66b66255b50)
+
+Thats it. 
